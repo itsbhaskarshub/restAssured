@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="205" passed="205">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18677" started-at="2022-07-26T17:35:08Z" finished-at="2022-07-26T17:35:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18677" started-at="2022-07-26T17:35:08Z" finished-at="2022-07-26T17:35:27Z">
+      <class name="com.restAssured.api.PostResponse">
+        <test-method status="PASS" signature="Post()[pri:0, instance:com.restAssured.api.PostResponse@62ee68d8]" name="Post" duration-ms="478" started-at="2022-07-26T17:35:13Z" finished-at="2022-07-26T17:35:14Z">
+        </test-method>
+      </class>
+      <class name="com.restAssured.api.patchResponse">
+        <test-method status="PASS" signature="patch()[pri:0, instance:com.restAssured.api.patchResponse@735b5592]" name="patch" duration-ms="361" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:27Z">
+        </test-method>
+      </class>
+      <class name="com.restAssured.api.PutResponse">
+        <test-method status="PASS" signature="put()[pri:0, instance:com.restAssured.api.PutResponse@51efea79]" name="put" duration-ms="469" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+      </class>
+      <class name="com.restAssured.api.GetResponse">
+        <test-method status="PASS" signature="Get()[pri:0, instance:com.restAssured.api.GetResponse@51081592]" name="Get" duration-ms="5429" started-at="2022-07-26T17:35:08Z" finished-at="2022-07-26T17:35:13Z">
+        </test-method>
+      </class>
+      <class name="com.restAssured.api.myResponse">
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="81" started-at="2022-07-26T17:35:14Z" finished-at="2022-07-26T17:35:14Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="83" started-at="2022-07-26T17:35:14Z" finished-at="2022-07-26T17:35:14Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="83" started-at="2022-07-26T17:35:14Z" finished-at="2022-07-26T17:35:14Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="68" started-at="2022-07-26T17:35:14Z" finished-at="2022-07-26T17:35:14Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="77" started-at="2022-07-26T17:35:14Z" finished-at="2022-07-26T17:35:14Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="74" started-at="2022-07-26T17:35:14Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="90" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="92" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="89" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="93" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="105" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="64" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="86" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="67" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="69" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="70" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:15Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:15Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="64" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="61" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="77" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="67" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="53" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="88" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="54" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="54" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="55" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="68" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:16Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="45" started-at="2022-07-26T17:35:16Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="49" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="52" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="53" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="67" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="54" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="53" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="52" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="80" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="61" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="64" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="60" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="106" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:17Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="55" started-at="2022-07-26T17:35:17Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="62" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="52" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="58" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="49" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="53" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="74" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="63" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="90" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="41" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="81" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:18Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:18Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="55" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="45" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="86" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="59" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="67" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="66" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="42" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="54" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="41" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="59" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="45" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:19Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:19Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="40" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="45" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="61" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="40" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="100" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="46" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="80" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="43" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="96" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="42" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="40" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:20Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:20Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="43" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="38" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="82" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="46" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="49" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="70" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="62" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="59" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:21Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="52" started-at="2022-07-26T17:35:21Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="52" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="55" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="77" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="41" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="71" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="60" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="83" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="63" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="43" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="64" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="42" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:22Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="43" started-at="2022-07-26T17:35:22Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="67" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="71" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="67" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="41" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="61" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="71" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="117" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="115" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="60" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="68" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="71" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:23Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:23Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="76" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="53" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="43" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="62" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="54" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="58" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="45" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="46" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="62" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="55" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="45" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:24Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="122" started-at="2022-07-26T17:35:24Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="73" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="46" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="49" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="42" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="41" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="42" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="49" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="56" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="47" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="50" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="57" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="52" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:25Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:25Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="44" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="45" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="53" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="48" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="54" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+        <test-method status="PASS" signature="rResponse()[pri:0, instance:com.restAssured.api.myResponse@9629756]" name="rResponse" duration-ms="51" started-at="2022-07-26T17:35:26Z" finished-at="2022-07-26T17:35:26Z">
+        </test-method>
+      </class>
+      <class name="com.restAssured.api.UrlResponse">
+        <test-method status="PASS" signature="statusRespose()[pri:0, instance:com.restAssured.api.UrlResponse@7f9a81e8]" name="statusRespose" duration-ms="119" started-at="2022-07-26T17:35:14Z" finished-at="2022-07-26T17:35:14Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
